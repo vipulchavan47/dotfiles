@@ -45,6 +45,9 @@ My personal Fedora + GNOME setup — clean, minimal, and blazingly fast.
 **Vicinae Launcher**
 ![Vicinae](screenshots/vicinae.png)
 
+**Zed Editor**
+![Zed](screenshots/zed.png)
+
 **Obsidian & VSCode**
 ![Obsidian & VSCOde](screenshots/Obsidian&VSCode.png)
 
